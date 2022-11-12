@@ -1,1 +1,1 @@
-# BeAcademy-FromZeroToHero-JavaScript
+# BeAcademy FromZeroToHero JavaScript
